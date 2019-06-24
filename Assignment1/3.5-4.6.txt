@@ -1,0 +1,25 @@
+3.5.1
+Multiplies Bob times Dole.
+
+3.5.2
+Returns 1.
+
+3.5.3
+(-1)^N Sum from 1 to n of 1/i^2
+
+4.1
+Their factorials.
+
+4.2
+Returns 1.
+With an if that checks the number is positive
+
+4.3
+The factorial is does not fit int the bits assigned to an integer
+
+4.4
+Just change the number to long.
+
+4.6
+No, we covered all the cases: Negatives, 0, biger than the maximum integer,
+probably we can check the maximum long value.
