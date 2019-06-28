@@ -1,0 +1,4 @@
+4.2
+Is a syntax error because the computer does not now
+which function are you calling, it could be both of them
+

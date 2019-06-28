@@ -1,0 +1,33 @@
+2.2
+1
+123
+3
+4
+5
+
+3.1
+The function is below the main, so it will not find it, 
+there are 2 ways to fix it.
+a)placing the function above the main;
+b)just declaring the function above the main;
+
+3.2
+a)just lose the semicolon
+b)write the function again;
+a is preferable, is more efficient;
+
+3.3
+It is just copying the value int the parameter,
+to solve it mark the parameter num whith an &. 
+
+3.4
+There is not a return statement int the difference function
+
+3.5
+Calling sum with more paramters than it can take.
+But the sum is associative, so it can call the function 
+whith the first to numbers and call it again with the result and
+the third one.
+
+3.6
+yPtr is not a pointer
